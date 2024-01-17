@@ -40,7 +40,7 @@ const Colors = () => {
         />
       </div>
       {/* a divide */}
-      <div className="divide-y">
+      <div className="ml-6 divide-y">
         <div>Item 1</div>
         <div>Item 2</div>
         <div>Item 3</div>
